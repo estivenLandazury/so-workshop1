@@ -1,6 +1,6 @@
 # Taller 1
 
-**Nombre:** Victor Andres Calambas Hurtado 
+**Nombre:** Victor Andres Calambas Hurtado  
 **Código:** A00059956
 
 ## Descripción
