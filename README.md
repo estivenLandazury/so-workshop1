@@ -1,2 +1,3 @@
-codigo:A00056992
-Nom,bre:estiven Landázury
+codigo:A00056992 
+
+Nombre:estiven Landázury
